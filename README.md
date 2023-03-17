@@ -1,0 +1,2 @@
+# go-wecht
+wechat go
